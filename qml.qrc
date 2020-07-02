@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Unit.qml</file>
+        <file>UnitForm.ui.qml</file>
+        <file>Config.qml</file>
+        <file>ConfigForm.ui.qml</file>
+        <file>Print.qml</file>
+        <file>PrintForm.ui.qml</file>
+        <file>Diag.qml</file>
+        <file>DiagForm.ui.qml</file>
+        <file>GateOpenDistance.qml</file>
+        <file>GateOpenDistanceForm.ui.qml</file>
+        <file>Supervisor.qml</file>
+        <file>SupervisorForm.ui.qml</file>
+        <file>Help.qml</file>
+        <file>HelpForm.ui.qml</file>
+        <file>HomeForm.qml</file>
+        <file>GateItemDown.qml</file>
+        <file>MovingItem.qml</file>
+        <file>GateItemUp.qml</file>
+        <file>editgatesettingspopup.qml</file>
+    </qresource>
+</RCC>
